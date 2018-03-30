@@ -33,8 +33,9 @@ The Arduino sketch is to setup communciations and do some simple stuff on the sc
 
 Using the 10 pin connection for serial on the module, connections are as follows
 
-CON1 (this is common througout most Noritake modules)  
+CON1 (this is common througout most Noritake modules) 
 
+| ------------- | ------------- |
 | GU140x32F 7806A | Content Cell  |
 Pin      Async      SPI
 
