@@ -36,8 +36,10 @@ Using the 10 pin connection for serial on the module, connections are as follows
 CON1 (this is common througout most Noritake modules) 
 
 | Pin| Async |SPI|
-| ------------- | ------------- |
-| GU140x32F 7806A | Content Cell  |
+| ------------- | ------------- | ------------- |
+| GU140x32F 7806A | Content | ------------- |
+
+
 Pin      Async      SPI
 
 1         5V        5V         
