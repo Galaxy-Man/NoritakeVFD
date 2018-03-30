@@ -54,5 +54,5 @@ Pin      Async      SPI
 10        HB         N/A       
  
 
-In Async mode you only need three connections to the Arduino 3 for TX, 5 for /RES and GND for 0V
+In Async mode you need minimum three connections to the Arduino 3 for TX, 5 for /RES and GND for 0V
 Use an external power supply as Arduino UNO or other boards may not have enough mA to drive it.
