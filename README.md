@@ -1,8 +1,12 @@
 # NoritakeVFD
 Basic template starting point for Noritake VFD Async/SPI connections using Arduino UNO.
 
-First VFD I have used is the GU144x40D K610A4 very good cheaply sourced from eBay less than $15.
-
+**First VFD I have used is the GU144x40D K610A4 very good cheaply sourced from eBay less than $15.**
+| Module | Second Header |
+| ------------- | ------------- |
+| GU280x16G 7000  | Content Cell  |
+| GU160x32D 7806A| Content Cell  |
+| GU140x32F 7806A | Content Cell  |
 Other boards I am working on include...
 GU280x16G 7000
 GU160x32D 7806A
