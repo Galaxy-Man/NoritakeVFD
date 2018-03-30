@@ -2,11 +2,13 @@
 Basic template starting point for Noritake VFD Async/SPI connections using Arduino UNO.
 
 **First VFD I have used is the GU144x40D K610A4 very good cheaply sourced from eBay less than $15.**
+
 | Module | Second Header |
 | ------------- | ------------- |
 | GU280x16G 7000  | Content Cell  |
 | GU160x32D 7806A| Content Cell  |
 | GU140x32F 7806A | Content Cell  |
+
 Other boards I am working on include...
 GU280x16G 7000
 GU160x32D 7806A
@@ -31,7 +33,9 @@ The Arduino sketch is to setup communciations and do some simple stuff on the sc
 
 Using the 10 pin connection for serial on the module, connections are as follows
 
-CON1 (this is common througout most Noritake modules)                          
+CON1 (this is common througout most Noritake modules)  
+
+| GU140x32F 7806A | Content Cell  |
 Pin      Async      SPI
 
 1         5V        5V         
