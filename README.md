@@ -40,15 +40,15 @@ CON1 (this is common througout most Noritake modules)
 | Pin| Async |SPI|
 | ------------- | ------------- | ------------- |
 | 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
-| 1 | 5v | 5v|
+| 1 | Nc | SCK|
+| 1 | RXD | /SS|
+| 1 | Nc | SIN|
+| 1 | 0v | 0v|
+| 1 | Nc | SOUT|
+| 1 | TXD | /IRQ|
+| 1 | /RES | /RES|
+| 1 | MB | MB|
+| 1 | HB | n/a|
 
 
 
