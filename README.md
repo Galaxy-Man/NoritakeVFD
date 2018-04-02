@@ -23,7 +23,8 @@ Part number structure...
   -7806A = product range and version                                       UW1J= product range and version
 
 
-  Graphic Module Product Series - Main Features
+  | Graphic Module Product Series | Main Features |
+  | 7806A | LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion. |
   -7806A     LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion.
   -7n00/3    Economy text and graphics modules plus scroll, draw and extended fonts. 8 bit parallel, async and sync interfaces.
   -8n00B     Hi-Speed, controlled by an ASIC and ideally suited for animations or fast display update. 8 bit parallel and sync int.
@@ -33,9 +34,9 @@ Part number structure...
 
 The Arduino sketch is to setup communciations and do some simple stuff on the sceen.
 
-Using the 10 pin connection for serial on the module, connections are as follows
+Using the 10 pin connection for serial on the module, pins are as follows
 
-CON1 (this is common througout most Noritake modules) 
+CON1 (connector 1 this is common througout most Noritake modules) 
 
 | Pin| Async |SPI|
 | ------------- | ------------- | ------------- |
@@ -49,21 +50,7 @@ CON1 (this is common througout most Noritake modules)
 | 1 | /RES | /RES|
 | 1 | MB | MB|
 | 1 | HB | n/a|
-
-
-
-Pin      Async      SPI
-
-1         5V        5V         
-2         Nc         SCK         
-3         RXD        /SS         
-4         Nc         SIN         
-5         0V         0V         
-6         Nc         SOUT         
-7         TXD        /IRQ         
-8         /RES       /RES         
-9         MB         MB         
-10        HB         N/A       
+      
  
 
 In Async mode you need minimum three connections to the Arduino 3 for TX, 5 for /RES and GND for 0V
