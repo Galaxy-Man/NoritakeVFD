@@ -40,7 +40,7 @@ Using the 10 pin connection for serial on the module, pins are as follows
 
 CON1 (connector 1 this is common througout most Noritake modules) 
 
-| Pin| Async |SPI| ------------- | ------------- |
+| Pin| Async |SPI| Async  | SPI |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | 5v | 5v| 2 | Nc | SCK|
 | 3 | RXD | /SS| 4 | Nc | SIN|
