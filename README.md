@@ -8,11 +8,11 @@ The Arduino sketch is to setup communciations and do some simple stuff on the sc
 
 Other boards I am working on include...
 
-| Module | Second Header |
+| Module | Range and Version |
 | ------------- | ------------- |
-| GU280x16G-7000  | Content Cell  |
-| GU160x32D-7806A| Content Cell  |
-| GU140x32F-7806A | Content Cell  |
+| GU280x16G  | 7000  |
+| GU160x32D| 7806A  |
+| GU140x32F | 7806A  |
 
 
 Part number structure...
