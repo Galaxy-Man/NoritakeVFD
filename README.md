@@ -39,7 +39,7 @@ CON1 (this is common througout most Noritake modules)
 
 | Pin| Async |SPI|
 | ------------- | ------------- | ------------- |
-| GU140x32F 7806A | Content | ------------- |
+| 1 | 5v | 5v|
 
 
 Pin      Async      SPI
