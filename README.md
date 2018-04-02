@@ -1,4 +1,4 @@
-# NoritakeVFD
+# Noritake VFD
 Basic template starting point for Noritake VFD Async/SPI connections using Arduino UNO.
 
 The Arduino sketch is to setup communciations and do some simple stuff on the sceen.
