@@ -10,9 +10,9 @@ Other boards I am working on include...
 
 | Module | Second Header |
 | ------------- | ------------- |
-| GU280x16G 7000  | Content Cell  |
-| GU160x32D 7806A| Content Cell  |
-| GU140x32F 7806A | Content Cell  |
+| GU280x16G-7000  | Content Cell  |
+| GU160x32D-7806A| Content Cell  |
+| GU140x32F-7806A | Content Cell  |
 
 
 Part number structure...
