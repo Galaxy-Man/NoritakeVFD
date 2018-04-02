@@ -51,5 +51,5 @@ CON1 (connector 1 this is common througout most Noritake modules)
       
  
 
-In Async mode you need minimum three connections to the Arduino 3 for TX, 5 for /RES and GND for 0V
+In Async mode you need minimum three connections to the Arduino. Pin 3 for TX, Pin 5 for /RES and Pin GND for 0V
 Use an external power supply as Arduino UNO or other boards may not have enough mA to drive it.
