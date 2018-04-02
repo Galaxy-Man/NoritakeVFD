@@ -5,16 +5,14 @@ The Arduino sketch is to setup communciations and do some simple stuff on the sc
 
 **First VFD used is the GU144x40D K610A4 very good cheaply sourced from eBay less than $15.**
 
+
+Other boards I am working on include...
 | Module | Second Header |
 | ------------- | ------------- |
 | GU280x16G 7000  | Content Cell  |
 | GU160x32D 7806A| Content Cell  |
 | GU140x32F 7806A | Content Cell  |
 
-Other boards I am working on include...
-GU280x16G 7000
-GU160x32D 7806A
-GU140x32F 7806A
 
 Part number structure...
 
