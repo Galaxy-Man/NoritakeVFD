@@ -24,6 +24,7 @@ Part number structure...
 
 
   | Graphic Module Product Series | Main Features |
+  | ----------------------------- | ------------------------------------------------------------------------------ |
   | 7806A | LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion. |
   -7806A     LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion.
   -7n00/3    Economy text and graphics modules plus scroll, draw and extended fonts. 8 bit parallel, async and sync interfaces.
