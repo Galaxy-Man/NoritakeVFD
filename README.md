@@ -27,8 +27,8 @@ Part number structure...
   | ----------------------------- | ------------------------------------------------------------------------------ |
   | 7806A | LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion. |
   |7806A     |LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion.|
-  |7n00/3    Economy text and graphics modules plus scroll, draw and extended fonts. 8 bit parallel, async and sync interfaces.
-  |8n00B     Hi-Speed, controlled by an ASIC and ideally suited for animations or fast display update. 8 bit parallel and sync int.
+  |7n00/3  |  Economy text and graphics modules plus scroll, draw and extended fonts. 8 bit parallel, async and sync interfaces.
+  |8n00B   |  Hi-Speed, controlled by an ASIC and ideally suited for animations or fast display update. 8 bit parallel and sync int.
   |K61nA8 |  Pixel Flexible, use a RISC processor for individual dot/cursor placement with SPI/I2C/RS485/RS232 + user ports|
   |3900  |     Multi-fonts from Europe and Asia with a wide range of commands including DMA + user ports. RS232 and parallel.|
 
