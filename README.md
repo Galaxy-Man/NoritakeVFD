@@ -21,13 +21,12 @@ Part number structure...
 | ----------------------------- | ------------------------------------------------------------------------------ |
 |   GU prefix = Graphic + Text module                        |               CU prefix = Text only|
 |  128x32D = dot format X x Y + dot pitch (D=~0.45mm)         |             20025=20x2 with 5mm character height|
-| -7806A = product range and version                         |              UW1J= product range and version|
+| -7806A = Graphic Module Product Series                    |              UW1J= product range and version|
 
 
   | Graphic Module Product Series | Main Features |
   | ----------------------------- | ------------------------------------------------------------------------------ |
   | 7806A | LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion. |
-  |7806A     |LCD 5x7 character emulation plus graphics upgrade, 4/8 bit LCD interface + user ports with SPI /async expansion.|
   |7n00/3  |  Economy text and graphics modules plus scroll, draw and extended fonts. 8 bit parallel, async and sync interfaces.
   |8n00B   |  Hi-Speed, controlled by an ASIC and ideally suited for animations or fast display update. 8 bit parallel and sync int.
   |K61nA8 |  Pixel Flexible, use a RISC processor for individual dot/cursor placement with SPI/I2C/RS485/RS232 + user ports|
