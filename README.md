@@ -41,11 +41,11 @@ CON1 (connector 1 this is common througout most Noritake modules)
 
 | Pin| Async |SPI| Pin  | Async | SPI |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 5v | 5v| 2 | Nc | SCK|
-| 3 | RXD | /SS| 4 | Nc | SIN|
-| 5 | 0v | 0v| 6 | Nc | SOUT|
-| 7 | TXD | /IRQ| 8 | /RES | /RES|
-| 9 | MB | MB| 10 | HB | n/a|
+| **1** | 5v | 5v| **2** | Nc | SCK|
+| **3** | RXD | /SS| **4** | Nc | SIN|
+| **5** | 0v | 0v| **6** | Nc | SOUT|
+| **7** | TXD | /IRQ| **8** | /RES | /RES|
+| **9** | MB | MB| **10** | HB | n/a|
 
       
  
